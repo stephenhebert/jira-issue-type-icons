@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Incident_issue_16 (padding)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14" rx="2"></rect>
+    </defs>
+    <g id="Incident_issue_16-(padding)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#FF991F" xlink:href="#path-1"></use>
+            <path d="M7.84670784,3.98155919 L10.9789379,8.96809162 C11.2727028,9.4357674 11.1317201,10.053037 10.6640444,10.3468019 C10.5046883,10.4468995 10.3203217,10.5 10.132136,10.5 L3.86767587,10.5 C3.31539112,10.5 2.86767587,10.0522847 2.86767587,9.5 C2.86767587,9.31181428 2.92077641,9.12744764 3.02087396,8.96809162 L6.15310402,3.98155919 C6.4468689,3.51388341 7.06413853,3.37290077 7.53181431,3.66666566 C7.65911337,3.74662702 7.76674647,3.85426012 7.84670784,3.98155919 Z M7,10.0625 C8.20812289,10.0625 9.1875,9.08312289 9.1875,7.875 C9.1875,6.66687711 8.20812289,5.6875 7,5.6875 C5.79187711,5.6875 4.8125,6.66687711 4.8125,7.875 C4.8125,9.08312289 5.79187711,10.0625 7,10.0625 Z" id="Combined-Shape" stroke="#FFFFFF" fill="#FFFFFF" stroke-linejoin="round" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
